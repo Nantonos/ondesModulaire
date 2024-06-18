@@ -32,9 +32,9 @@ Choice of op-amp to use as comparator informed by [AN-849 Using Op Amps as Compa
 - two output buffers (TL072) with 47R output impedance.
 - small pcb with just 2 pots. 6 jacks wired to pcb.
 
-[Schematic (PDF)](schematic.pdf)
+[Schematic (PDF)](schematic.pdf), [Eagle schematic](./Eagle/comparator.sch)
 
-![board](./images/top.png) ([PDF](board.pdf))
+![board](./images/top.png) ([PDF](board.pdf)), [Eagle board](./Eagle/comparator.brd)
 
 ![completed module](images/pcb-600.jpg)]
 

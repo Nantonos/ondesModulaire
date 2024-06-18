@@ -12,6 +12,7 @@ this project (as opposed to kits or designs made by others).
 - [Dual Comparator](dual%20comparator/)
 - [ondesMix](wavemix/)
 - [Offsets](offsets/)
+- [Transpositeurs](transpositeurs/)
 
 It is also documenting the controllers I am making, and the speakers.
 
@@ -29,6 +30,6 @@ as experiments proceed.
 The [actual current state](http://www.modulargrid.net/e/racks/view/61770) is also available and is updated as modules are purchased, built, or designed and built,
 respectively.
 
-A [discussion thread on Muffs forum](http://www.muffwiggler.com/forum/viewtopic.php?p=1261346) is the main place where this and related
+A [discussion thread on Modwiggler forum](http://www.muffwiggler.com/forum/viewtopic.php?p=1261346) is the main place where this and related
 projects are discussed
 

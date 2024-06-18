@@ -55,8 +55,8 @@ the offset with an inverting summer (thus restoring the phase).
 ## Schematic & Layout
 
 - [schematic (pdf)](offset_rectifier.pdf)
-- [Eagle schematic](offset_rectifier.sch)
-- [Eagle board](offset_rectifier.brd)
+- [Eagle schematic](./Eagle/offset_rectifier.sch)
+- [Eagle board](./Eagle/offset_rectifier.brd)
 - [Bill of Materials](BOM.md)
 
 The board was made at OSH Park.

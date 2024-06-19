@@ -1,3 +1,9 @@
+## Status
+
+Keyboard interface did not work, abandoned. Nothing to see here.
+
+## Description
+
 Teensy++ 2.0-based keyboard scanner for Fatar 49- and 61-key keyboards, with velocity. This is intended for an Ondes Martenot, using a 5 octave keyboard  and +/- 2 octave switching, giving 9 octaves in total. Output is pitch CV and gate, plus velocity (not needed for Ondes Martenot, but generally useful).
 
 For flexibility, separate boards are used for the microcontroler and keyboard matrix, the pitch CV, velocity CV, and the ADC.
